@@ -1,2 +1,2 @@
 # Diabetic-Retinopathy-Detection-Using-ML-CNN--and-Image-Processing
- 
+Diabetic Retinopathy Detection is a Web based software which can detect blindness or blur vision due to complication of diabetic disease. This software use different python module for various preprocessing technique of image and detect the Retinopathy using convolutional neural networks by dividing the image into different sub layers. All the images used are of medical standard and retrieved from EyePacs Dataset dataset. This project target the Healthcare domain and helps in more accurate result in detection of retinopathy and reduce the costing of same as well. 
